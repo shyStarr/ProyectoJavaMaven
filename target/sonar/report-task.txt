@@ -1,0 +1,7 @@
+organization=shystarr
+projectKey=shyStarr_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=shyStarr_ProyectoJavaMaven
+ceTaskId=AXqiYFvRrfYeZHroA5BJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqiYFvRrfYeZHroA5BJ
